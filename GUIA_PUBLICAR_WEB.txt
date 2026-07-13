@@ -1,0 +1,26 @@
+SISTEMA DE HORAS DS HNOS - PUBLICAR EN STREAMLIT
+
+IMPORTANTE: al subir a GitHub, subí LOS ARCHIVOS Y CARPETAS QUE ESTÁN DENTRO de esta carpeta.
+No subas el ZIP cerrado ni una carpeta vacía.
+
+PASOS
+1. Entrá a tu repositorio de GitHub: sistema-horas-ds.
+2. Elegí Add file > Upload files.
+3. Arrastrá TODO el contenido de esta carpeta. Deben verse en GitHub:
+   - app.py
+   - requirements.txt
+   - modulos (carpeta)
+   - configuracion (carpeta)
+   - .streamlit (carpeta)
+   - README.md
+4. Abajo elegí Commit directly to the main branch y tocá Commit changes.
+5. Entrá a https://share.streamlit.io y elegí Create app.
+6. Completá:
+   Repository: camilarios-ds/sistema-horas-ds
+   Branch: main
+   Main file path: app.py
+7. Tocá Deploy.
+
+NOTA SOBRE DATOS
+- Las correcciones manuales se mantienen mientras la sesión está abierta y salen en el Excel descargado.
+- Los cambios de empleados y feriados hechos dentro de Streamlit pueden perderse si la app se reinicia. Para dejarlos permanentes, editá los CSV en GitHub o subí una nueva versión.

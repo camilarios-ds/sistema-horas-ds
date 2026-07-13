@@ -1,0 +1,3 @@
+Sistema Horas DS HNOS
+Versión web lista para Streamlit Cloud
+Incluye: correcciones manuales, resumen RRHH, detalle, incidencias, feriados, nocturnas, 100%, extras 50%, extra nocturna y exportación Excel.
